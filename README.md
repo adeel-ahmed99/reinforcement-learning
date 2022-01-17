@@ -3,5 +3,7 @@ Implementing various algorithms in a toy [environment](https://gym.openai.com/en
 Environment: 
 
 - S represents the start state, F is a state the agent can use to continue towards the goal state G, and H represents a 'hole' state, and ends the iteration.
+- The current state is highlighted in red.
+- The files vi_and_pi.py, and mc_td_and_qlearning.py respectively contain the methods used to run the environment, and you can change the various parameters there.
 
 ![Screenshot](demo.png)
